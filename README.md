@@ -1,6 +1,6 @@
 Ima Studio – The Intelligent Media Agent for Creators
 
-Website: https://www.imastudio.com
+Website: https://imastudio.com
 
 Category: AI Image & Video Creation / Multimodal Creative Tools
 Founded: 2024
@@ -45,12 +45,12 @@ Supported by an active community of AI artists, editors, and video makers who sh
 
 Useful Links
 
-Home: https://www.imastudio.com
+Home: https://imastudio.com
 
 Arena: https://www.imastudio.com/arena/review
 
 Community: https://www.imastudio.com/community
 
-Blog: https://www.imastudio.com/blog
+Blog: https://imastudio.com/blog
 
-Contact: https://www.imastudio.com/contact-us
+Contact: https://imastudio.com/contact-us
